@@ -15,5 +15,5 @@ Model Evaluation:
 Additionally, the training history (accuracy and loss) for each model was visualized.
 
 Deployment in Streamlit:
-      Build a Streamlit application that allows users to upload fish images, predict and display the fish 
-category, and provide model confidence scores.
+      Build a Streamlit application that allows users to upload fish images, 
+it predict  the class and displays the fish category, and confidence scores.
